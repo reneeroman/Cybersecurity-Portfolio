@@ -48,7 +48,6 @@ Each project contains:
 
 * README.md
 * Project Report (PDF)
-* Screenshots
 
 ---
 
